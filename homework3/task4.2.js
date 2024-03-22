@@ -1,5 +1,5 @@
-let length = 4;
-let width = 9;
-let square = length*width;
+const length = 4;
+const width = 9;
+const square = length * width;
 
 console.log(square.toFixed(2));

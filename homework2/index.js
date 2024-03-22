@@ -1,6 +1,7 @@
-import chalk from "chalk";
-const hello = "Hello";
-let variable = 12;
+import chalk from 'chalk';
 
-console.log(chalk.red(hello), chalk.blue(variable), chalk.yellow("people"));
-console.log("Please work!!!");
+const hello = 'Hello';
+const variable = 12;
+
+console.log(chalk.red(hello), chalk.blue(variable), chalk.yellow('people'));
+console.log('Please work!!!');

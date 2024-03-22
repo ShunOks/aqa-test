@@ -4,7 +4,7 @@ const age = 18;
 
 //module.exports age
 
-module.exports = 
+module.exports =
 {
     myAge: age,
     myName: "Oksana"
@@ -13,4 +13,4 @@ module.exports =
 */
 
 export const age = 18;
-export const name = "Oksana";
+export const name = 'Oksana';

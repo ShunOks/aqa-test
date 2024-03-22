@@ -1,5 +1,5 @@
 const pi = Math.PI;
-let radius = 4;
-let square = pi*Math.pow(radius,2);
+const radius = 4;
+const square = pi * radius ** 2;
 
 console.log(square.toFixed(2));
