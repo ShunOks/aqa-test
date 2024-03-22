@@ -1,6 +1,6 @@
 const pi = Math.PI;
-let radius = 2;
-let height = 8;
-let square = pi*Math.pow(radius,2)*height;
+const radius = 2;
+const height = 8;
+const square = pi * radius ** 2 * height;
 
 console.log(square.toFixed(2));
